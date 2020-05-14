@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589477532299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2913105802",
+    "id" : "FD26DEF2",
+    "lastKnownWriteTime" : 1589477720,
+    "last_content_update" : 1589477720932,
+    "path" : "C:/Users/admin/Desktop/HelloWorld.md",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "0,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
